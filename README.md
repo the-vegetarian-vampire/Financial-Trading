@@ -4,7 +4,7 @@ Full-stack web application simulating stock purchasing and selling through IEX A
 
 1. User registers an account, creates unique password, accounts are checked against SQL usernames in database.
 2. User login and a session recorded via cookies.
-3. Each account allocated $10.000.
+3. Each account allocated $10,000.
 4. User can Quote, Buy, or Sell stocks via NASDAQ.
 5. User account balance is updated based on buying and selling stocks.
 6. User can check history to see all purchases and sales.
