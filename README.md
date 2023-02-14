@@ -17,4 +17,6 @@ Full-stack web application simulating stock purchasing and selling through `IEX'
 
 ----
 
-<img width="1280" alt="Screen Shot 2022-12-10 at 1 13 58 PM" src="https://user-images.githubusercontent.com/105305546/206869911-f0907c09-5708-450f-95f9-a5ef28fd8e89.png">
+## Quote:
+https://user-images.githubusercontent.com/105305546/218632996-50745606-da55-4e49-a026-946ccfcdbd25.mov
+
