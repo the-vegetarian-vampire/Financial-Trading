@@ -4,7 +4,7 @@ Full-stack web application simulating stock purchasing and selling through `IEX'
 ----
 
 ## To Run:
-1. Visit `[https://iexcloud.io/cloud-login#/register/](https://iexcloud.io/cloud-login#/register/)`
+1. Visit [https://iexcloud.io/cloud-login#/register/](https://iexcloud.io/cloud-login#/register/)
 2. Once API token is confirmed, in terminal, execute: `export API_KEY=value`
 3. Run flask via `flask run`
 
