@@ -17,6 +17,20 @@ Full-stack web application simulating stock purchasing and selling through `IEX'
 
 ----
 
-## Quote:
+## Get Stock Quote:
 https://user-images.githubusercontent.com/105305546/218632996-50745606-da55-4e49-a026-946ccfcdbd25.mov
 
+----
+
+## Buy Stock:
+https://user-images.githubusercontent.com/105305546/218634009-852c0e74-4fbd-48fe-aab5-89933b41b3b8.mov
+
+----
+
+## Sell Stock:
+https://user-images.githubusercontent.com/105305546/218634153-a1b3fdfd-3229-4a54-b4f7-d29f4df469a2.mov
+
+----
+
+## History:
+<img width="1179" alt="Screen Shot 2023-02-13 at 10 47 03 PM" src="https://user-images.githubusercontent.com/105305546/218634218-6b59c1a5-b7b5-45ce-b868-49a76214ae97.png">
